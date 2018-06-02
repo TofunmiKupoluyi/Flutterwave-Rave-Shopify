@@ -1,0 +1,465 @@
+.btn-success:hover{
+    background-color:#70884F;
+    border-color:#70884F;
+}
+.company-logo{
+    height:auto;
+    width:160px;
+    padding-bottom:20px;
+}
+.center-image{
+    text-align:center;
+}
+.three-image-center{
+    height:130px;
+}
+a{
+    color:white;
+}
+a:link{
+    color:white;
+}
+a:hover{
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+}
+.image-field-bar-2{
+    padding-top:55px; 
+}
+
+.brand-images-bar-2{
+    padding-bottom:37px;
+}
+.container-fluid {
+    overflow-x: hidden;
+}
+.header-image::before{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    content:" ";
+    width:100%;
+    height:100%;
+    background-color: rgba(14, 23, 71, 0.7);
+    z-index: 3;
+}
+.header-image{
+    height:644px; 
+    /* background-color:yellow; */
+    position: relative;
+    background: url('../img/merged-images@3x.png') center; 
+}
+
+.header-0{
+    position:relative;
+    color:white;
+    z-index:4;
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.first-title-text{
+    padding-top:25px;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.create-account-button{
+    background-color:#70884F;
+    width:200px;
+    border-color:#70884F;
+    margin-top:40px
+}
+
+.second-title-text{
+    padding-top:30px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+}
+.flutterwave-logo-div{
+    position:absolute;
+    color:white;
+    z-index:4; 
+}
+
+.flutterwave-logo{
+    display:block;
+    width:150px;
+    margin-left:50px;
+    margin-top:30px;
+}
+
+.shopify-logo-header{
+    height:70px;
+}
+.rave-logo-header{
+    height:60px;
+}
+.addition-logo-header{
+    height:70px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+
+.header-text-1{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.header-text-2{
+    font-family: Roboto, sans-serif, bold;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.0px;
+    text-align: center;
+    color: #000000;
+}
+
+.header-text-2-title{
+    padding-right:10px;
+}
+.rave-text{
+    object-fit: contain;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.get-started-text{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+    padding-top:30px; 
+    padding-bottom:60px
+}
+
+.side-panel{
+    padding-left:10px;
+}
+
+.side-row{
+    padding-top:20px;
+    padding-bottom:40px;
+}
+
+.side-panel-header-text{
+    font-family: Roboto;
+    font-size: 24.5px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom:0px;
+    
+}
+
+.side-panel-header-oval{
+    width: 36px;
+    height: 36px;
+    padding: 10px;
+    margin:6px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.side-panel-sub-text{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+    padding-top:10px;
+    white-space:normal !important;
+    word-wrap: break-word;
+    overflow: hidden;
+    padding:50px;
+}
+
+.rave-screenshot-side{
+    width: 380px;
+    height: 217px;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.panel-3-column{
+    padding:20px;
+}
+.panel-3-heading-row{
+    padding-bottom:20px
+}
+.panel-3-headings{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #000000;
+}
+
+.panel-3-text-row{
+    padding-top:10px;
+}
+
+.panel-3-text{
+    font-family: Roboto;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #000000;
+    
+}
+
+.header-prelim-footer-text{
+    text-align:center;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #ffffff;
+    padding:50px;
+}
+
+.button-row{
+    padding:0;
+    display:flex;
+    justify-content: center;
+}
+
+.footer-background{
+    background-image: url('../img/group@3x.png'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:348px; 
+    max-height: 348px;
+}
+.footer-text-style{
+    height:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    margin:0;
+
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 0.2;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.bottom-click-buttons{
+    width:200px; 
+    margin:30px;
+}
+
+@media only screen and (max-width: 768px) {
+    .rave-text{
+        font-size:20px
+    }
+
+    .bottom-click-buttons{
+        display:block;
+    }
+
+    .header-0{
+        position:relative;
+        color:white;
+        z-index:4;
+        height:100%;
+        width:100%;
+        display:inherit;
+        padding:30px;
+        
+    }
+
+    .shopify-logo-header{
+        margin:auto;
+        margin-top:80px;
+        display:block;
+        height:40px;
+    }
+    .rave-logo-header{
+        margin:auto;
+        display: block;
+        height:30px;
+    }
+    .addition-logo-header{
+        margin:auto;
+        display:block;
+        height:40px;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+
+    .caveat-text{
+        font-family: Roboto;
+        /* font-size: px; */
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0px;
+        text-align: center;
+        color: #ffffff;
+        
+    }
+
+    .first-title-text{
+        padding-top:25px;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.1px;
+        text-align: center;
+        color: #ffffff;
+    }
+
+    .create-account-button{
+        display:block;
+        background-color:#70884F;
+        width:200px;
+        border-color:#70884F;
+        margin:auto;
+        margin-top:40px;
+    }
+    .create-account-button:hover{
+        background-color:#70884F;
+        border-color:#70884F;
+    }
+
+    .second-title-text{
+        padding-top:30px;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 0.1px;
+        text-align: center;
+        color: #ffffff;
+    }
+}
+@media only screen and (min-width: 769px) {
+    /* For laptops */
+    
+    .side-row{
+        display:flex;
+        align-items: center;
+        padding-top:20px;
+        padding-bottom:40px;
+    }
+    .rave-screenshot-side{
+        width: 380;
+        height: 217px;
+        object-fit: contain;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+@media only screen and (min-width: 900px) {
+    /* For laptops */
+    
+    .side-row{
+        display:flex;
+        align-items: center;
+        padding-top:20px;
+        padding-bottom:40px;
+    }
+    .rave-screenshot-side{
+        width: auto;
+        max-width: 500px;
+        height: 300px;
+        object-fit: contain;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) {
+    /* For laptops */
+    
+    .side-panel-sub-text{
+        padding:30px;
+    }
+
+}
